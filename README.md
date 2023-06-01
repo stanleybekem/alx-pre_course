@@ -4,3 +4,6 @@ I'm now a ALX Student, this is my first repository as a full-stack engineer
 bash
 c
 js
+c/c_is_fun.c
+js/main.js
+js/index.js
