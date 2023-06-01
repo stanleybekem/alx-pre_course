@@ -16,3 +16,4 @@ echo "ALX"
 bash/school
 #!/bin/bash
 echo "school"
+CONFLICT (content): Merge conflict in bash/alx
