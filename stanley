@@ -1,1 +1,7 @@
 #bash/98
+bash/alx
+echo "ALX"
+echo "ALX School"
+bash/school
+echo "School"
+echo "The school is open!"
