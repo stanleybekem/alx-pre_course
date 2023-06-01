@@ -13,3 +13,6 @@ echo "ALX"
 bash/alx
 #!bin/bash
 echo "ALX"
+bash/school
+#!/bin/bash
+echo "school"
