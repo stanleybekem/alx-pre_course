@@ -10,3 +10,6 @@ js/index.js
 bash/alx
 #!/bin/bash
 echo "ALX"
+bash/alx
+#!bin/bash
+echo "ALX"
